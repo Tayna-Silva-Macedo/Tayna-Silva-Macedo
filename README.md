@@ -1,4 +1,4 @@
-<h2 align="center"> Olá!! Eu sou a Tayná, estudante de Desenvolvimento Web na Trybe 🚀 </h2>
+<h1 align="center"> Olá!! Eu sou a Tayná, estudante de Desenvolvimento Web na Trybe 🚀 </h1>
 <div align="center">
   <a href="https://github.com/Tayna-Silva-Macedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tayna-Silva-Macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
   
 ---
 
-<h3 align="center"> Contatos </h3>
+<h2 align="center"> Contatos </h2>
 
 <div align="center"> 
   <a href="https://www.instagram.com/tayna_macedo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,9 +15,9 @@
   <a href = "mailto:tayna_sm1996@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
   
-<h3 align="center"> Skills </h3>
+<h2 align="center"> Skills </h2>
 
-<h4 align="center"> Front-end </h4>
+<h3 align="center"> Front-end </h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -27,7 +27,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
-<h4 align="center"> Back-end </h4>
+<h3 align="center"> Back-end </h3>
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -36,7 +36,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 
-<h4 align="center"> Testes </h4>
+<h3 align="center"> Testes </h3>
 
 <p align="center">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>

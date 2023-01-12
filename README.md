@@ -1,8 +1,8 @@
 <h1 align="center"> Olá!! Eu sou a Tayná, estudante de Desenvolvimento Web na Trybe 🚀 </h1>
 <div align="center">
   <a href="https://github.com/Tayna-Silva-Macedo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tayna-Silva-Macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayna-Silva-Macedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tayna-Silva-Macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tayna-Silva-Macedo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ---

@@ -1,4 +1,4 @@
-<h1 align="center"> Olá!! Eu sou a Tayná, estudante de Desenvolvimento Web na Trybe 🚀 </h1>
+<h1 align="center"> Olá, seja bem vindo!! Eu sou a Tayná, desenvolvedora Back-end 🚀 </h1>
 <div align="center">
   <a href="https://github.com/Tayna-Silva-Macedo">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tayna-Silva-Macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

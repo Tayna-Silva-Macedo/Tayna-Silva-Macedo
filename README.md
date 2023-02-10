@@ -1,8 +1,9 @@
-<h1 align="center"> Olá, seja bem vindo!! Eu sou a Tayná, desenvolvedora Back-end 🚀 </h1>
+<h1 align="center">Olá, seja bem vindo!! Eu sou a Tayná 😇</h1>
+<h2 align="center">Desenvolvedora Back-end, apaixonada por desafios! 🚀</h2>
 <div align="center">
   <a href="https://github.com/Tayna-Silva-Macedo">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tayna-Silva-Macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tayna-Silva-Macedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tayna-Silva-Macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&hide=issues"/>
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tayna-Silva-Macedo&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
   
 ---

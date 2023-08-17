@@ -140,5 +140,5 @@
 </div>
 
 ---
-  
-![Snake animation](https://github.com/Tayna-Silva-Macedo/Tayna-Silva-Macedo/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Tayna-Silva-Macedo/Tayna-Silva-Macedo/blob/output/github-contribution-grid-snake.svg)
